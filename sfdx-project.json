@@ -4,8 +4,8 @@
       "path": "sfdx-source/apex-mocks",
       "default": true,
       "package": "fflib-apex-mocks",
-      "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT",
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT",
       "versionDescription": ""
     }
   ],
@@ -15,6 +15,7 @@
   "packageAliases": {
     "fflib-apex-mocks": "0Ho5f000000PBNoCAO",
     "fflib-apex-mocks@0.1.0-2": "04t5f000000JohlAAC",
-    "fflib-apex-mocks@0.1.0-3": "04t5f000000JohqAAC"
+    "fflib-apex-mocks@0.1.0-3": "04t5f000000JohqAAC",
+    "fflib-apex-mocks@1.0.0-1": "04t5f000000JohvAAC"
   }
 }
